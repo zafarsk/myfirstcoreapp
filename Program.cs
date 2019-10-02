@@ -13,7 +13,7 @@ namespace myfirstcoreapp
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();// run
+            CreateHostBuilder(args).Build().Run();// run one
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
