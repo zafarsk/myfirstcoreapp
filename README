@@ -1,1 +1,6 @@
-TODO: Add contents for README
+This is used for continuous integration ,continuous delivery (CI/CD), 
+Environment used below
+---------------------------------------------------------------------
+using Docker, Jenkins, github, asp.net core 
+and ngrok for webhook as localhost is not supported for webhook,
+Elementary OS (5.1) Hera is used based on Ubuntu 18.04 lts
